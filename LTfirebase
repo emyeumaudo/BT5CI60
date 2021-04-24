@@ -1,0 +1,9 @@
+****Firebase 
+*Khái niệm: Firebase là platform do Google cung cấp, nhằm hỗ trợ việc tạo ra các web application, mobile application với chất lượng cao.
+
+****Firebase Authentication 
+*Khái niệm: Firebase Authentication là chức năng dùng để xác thực người dùng bằng Password, số điện thoại hoặc tài khoản Google, Facebook hay Twitter, v.v.
+*Công dụng: Firebase Authentication giúp thực hiện việc chia sẻ ID giữa các ứng dụng, giúp người dùng dễ dàng tiếp cận sản phẩm hơn. Vì thế, nó là một chức năng rất quý.
+*Cách cài đặt 
+# 1 - Enable dịch vụ của firebase cho phép login qua các phương thức :VD; email/password, Fb, Ins...
+# 2 - Đăng nhập và xác thực firebase.
